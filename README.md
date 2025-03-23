@@ -1,4 +1,4 @@
-👋 Hi, I’m @YungCopelCreatives
+👋 Hi, I’m Cebo Mlotshwa
 👀 I’m interested in UI/UX design, full-stack development, branding, data analysis, and cybersecurity.
 
 🌱 I’m currently learning Tailwind CSS, Bootstrap, Django, Data Analysis, and Cybersecurity.
